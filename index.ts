@@ -1,3 +1,4 @@
+import './style.css';
 import { loadSmplrJs, Smplr } from '@smplrspace/smplr-loader';
 
 export function initSpace(smplr: Smplr) {
