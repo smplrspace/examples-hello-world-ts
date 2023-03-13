@@ -13,6 +13,7 @@ export function initSpace(smplr: Smplr) {
   });
 }
 
+// we recommend using the default value 'esm' in your code but stackblitz required 'umd'
 loadSmplrJs('umd')
   .then((smplr) => initSpace(smplr))
   .catch((error) => console.error(error));
