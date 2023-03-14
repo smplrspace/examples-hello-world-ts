@@ -6,7 +6,8 @@
 
 @font-face {
   font-family: 'RNSSanz-Bold';
-  src: url('/static/fonts/RNSSanz-Bold.woff2') format('woff2');
+  src: url('https://docs.smplrspace.com/static/fonts/RNSSanz-Bold.woff2')
+    format('woff2');
 }
 
 body {
