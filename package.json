@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@smplrspace/smplr-loader": "beta"
+    "@smplrspace/smplr-loader": "^2.5.1"
   }
 }
